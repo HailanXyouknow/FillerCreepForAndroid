@@ -1,0 +1,4 @@
+#Fri Jan 12 20:56:59 MST 2018
+base.0=/Users/Hailan/Documents/FillerCreepForAndroid/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
